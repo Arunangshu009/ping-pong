@@ -1,0 +1,19 @@
+body{
+    background-image: radial-gradient(circle at 50% 50%, #ff7089, #ff6193 6.25%, #ff50a3 12.5%, #ff3db3 18.75%, #ff29c2 25%, #ff10d2 31.25%, #ff00e1 37.5%, #ff00f0 43.75%, #ff00ff 50%, #de1fff 56.25%, #b534ff 62.5%, #7d45ff 68.75%, #0053ff 75%, #005eff 81.25%, #0067ff 87.5%, #006eff 93.75%, #0073ff 100%);
+    text-align:  center;
+}
+h1{
+    color: chartreuse;
+    text-decoration: underline;
+    text-decoration-style: double;
+}
+
+canvas{
+    width: 750; 
+    height: 700; 
+    
+    border: rgb(0, 0, 255);
+    border-radius: 20px;
+    border-style: ridge;
+    border-width: 26px;
+}
